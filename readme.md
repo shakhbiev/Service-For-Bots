@@ -9,8 +9,8 @@ A demo application to illustrate how Inertia.js works.
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/inertiajs/pingcrm.git pingcrm
-cd pingcrm
+git clone https://github.com/ramzantg/Service-For-Bots.git laravel
+cd laravel
 ```
 
 Install PHP dependencies:
