@@ -62,7 +62,7 @@
                 </tbody>
                 <div v-else class="w-full mx-auto bg-red-200 px-6 py-4 mx-2 my-4 rounded-md text-lg flex items-center ml-5">
                   <icon name="views-list" class="w-6 h-6 mr-2" />
-                  <span class="text-red-800"> Вы не создали ни одной категории </span>
+                  <span class="text-red-800"> Нет категорий </span>
                 </div>                 
             </table>
         </div>
