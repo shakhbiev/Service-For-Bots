@@ -3,7 +3,7 @@
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/ramzantg/Service-For-Bots.git laravel
+git clone https://github.com/shakhbiev/Service-For-Bots.git laravel
 cd laravel
 ```
 
