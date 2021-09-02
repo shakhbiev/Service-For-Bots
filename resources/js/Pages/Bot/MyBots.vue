@@ -55,7 +55,7 @@
       </div>
       <div class="mt-6">
         <h1 class="text-3xl text-blue-500 font-bold">
-          Нет ботов
+          Нет добавленных ботов
         </h1>
         <p class="mt-3 text-gray-600 text-xl font-serif">
             Добавьте свой первый бот
